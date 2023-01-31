@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Namaz_part2"
+
+    android:orientation="vertical"
+    android:background="#29BCA5"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="vertical"
+            android:background="@color/white"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="ওযু ও মসজিদের দোআ  "
+                android:textSize="17dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="ওযুর প্রথমে দোআ :"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ: বিসমিল্লাহ |(তিরমিযী ) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="অর্থ: আল্লাহর নামে শুরু করছি | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="ওযুর শেষে দোআ: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ: আশ্হাদু আল্ লা-ইলা-হা ইল্লাল্লাহু আহ্দাহু লা-শারীকালাহু অ আশ্হাদু আন্না মুহাম্মাদান আ’বদুহু অ-রাসূলুহু |(মুসলিম ) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="অর্থ: আমি সাক্ষ্য দিচ্ছি যে আল্লাহ ছাড়া কোন মাবুদ নাই | তিনি এক এবং তাঁর কোন অংশীদার নাই | আমি এও সাক্ষ্য দিচ্ছি যে, নিশ্চয়ই হজরত মোহাম্মদ(সাঃ ) তাঁর দাস এবং তাঁর প্রেরিত দূত | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="দ্বিতীয় দোআ: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ: আল্লা-হুম্মাজ্ আ’লনী মিনাত্ তাওয়াবীনা অজ্ আলনি মিনাল মুতাতহ্হিরীন |(তিরমিযী ) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="অর্থ: হে আল্লাহ্! তুমি আমাকে তওবাকারী এবং পাক-সাফ লোকেদের অন্তর্ভুক্ত করে দাও | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="মসজিদে প্রবেশ করার দোআ "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ: আল্লা-হুম্মাফ তাহলী আবওয়াবা রহমাতিকা |(মুসলিম ) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="অর্থ: হে আল্লাহ্! আমি তোমার কাছে তোমার অনুগ্রহ প্রার্থনা করছি | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আযান ও আযানের পর দোআ "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আযান: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আল্লাহ আকবার, আল্লাহ আকবার, আল্লাহ আকবার, আল্লাহ আকবার |
+আশহাদু আল লা-ইলাহা ইল্লাল্লাহ্ – আশহাদু আল লা-ইলাহা ইল্লাল্লাহ্ |
+আশহাদু আন্না মুহাম্মাদার রাসুলুল্লাহ্ – আশহাদু আন্না মুহাম্মাদার রাসুলুল্লাহ্ |
+হাইয়্যা আলাস্সালাহ্ – হাইয়্যা আলাস্সালাহ্ | (ডান দিকে মুখ করে)
+হাইয়্যা আলাল ফালাহ্ – হাইয়্যা আলাল ফালাহ্ | (বাম দিকে মুখ করে)
+আলাস্সালাতু খাইরুম্ মিনান্নউম – আলাস্সালাতু খাইরুম্ মিনান্নউম |(শুধু ফযরের আযানে)
+আল্লাহ আকবার, আল্লাহ আকবার |
+লা ইলাহা ইল্লাল্লাহ্ | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আযানের পর দোআ: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ: আল্লা-হুম্মা রব্বা হাজিহিদ দা’অতীত্ তাম্মাতি অস্স্বলাতিল ক্ব-ইমাতি আ-তি মুহাম্মানিল্ অসীলাতা অল্ ফাযীলাতা অবআ’স্হু মাক্বামাম্ মাহমুদানিল্লাযী অ-আ’দ্তাহু, ইন্নাকা লা-তুখলিফুল মীআ’দ |(বায়হাকী, মিশকাত ৬৬) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="অর্থ: এইসব পরিপূর্ণ আহ্বান ও আসন্ন নামাযের প্রভু | হে আল্লাহ্ ! হযরত মুহাম্মাদ (সাঃ ) কে জান্নাতের অসীলা নামক মনযিলটিও সম্মান দান করো এবং তুমি তাঁকে সেই মক্কা-মে মাহমুদ বা প্রশংসিত জায়গায় পৌঁছে দিও, যা তাঁকে দেবার জন্য তুমি ওয়াদা করেছো | নিশ্চয় তুমি ওয়াদা খিলাফ করো না | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="একামত: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="একামতের শব্দগুলো আযানের মতোই হবে | তবে “হাইয়্যা আলাল ফালাহ্” এর পর অতিরিক্ত বলতে হবে —
+ক্বা্দ ক্বা্- মাতিস সালাহ – ক্বা্দ ক্বা্- মাতিস সালাহ | "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

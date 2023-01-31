@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Quran_part1"
+    android:orientation="vertical"
+    android:background="#29BCA5"
+    android:layout_weight="10"
+    >
+
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="10dp"
+       >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:background="@color/white"
+           android:padding="5dp"
+           >
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="কুরআন শেখার সহজ উপায়"
+               android:textColor="@color/black"
+               android:textStyle="bold"
+               android:layout_marginTop="10dp"
+               android:gravity="center"
+               android:layout_marginBottom="5dp"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:gravity="fill|clip_horizontal"
+
+               android:text="প্রতিটি মুসলিম এর জন্য মহান রাব্বুল আলামিনের পবিত্র গ্রন্থ আল কুরআন শেখা অত্যন্ত গুরুত্বপূর্ণ এবং একইসাথে আবশ্যক। সুতরাং একজন মুসলমান হিসেবে আপনাকে অবশ্যই কুরআন তেলাওয়াত সহিহ শুদ্ধভাবে করতে জানতে হবে। তবে দুঃখজনক হলেও সত্যি বর্তমানে আমরা কোরআন শেখার থেকে অনেক দূরে সরে যাচ্ছি!
+
+
+
+এর একটি অন্যতম কারণ হচ্ছে আমরা সঠিকভাবে কুরআন শেখার চেষ্টা করি না। সহজভাবে কোরআন শেখার পদ্ধতি না পাওয়ার কারণে অনেক সময় আমরা কুরআন শেখার বিষয়টিকে অত্যন্ত কঠিন বিষয় বলে মনে করে থাকি যার ফলে আমরা কুরআন শেখার বিষয়ে অনাগ্রহ প্রকাশ করে থাকি। চলুন তাহলে আজকে কুরআন কুরআন শেখার সহজ উপায় গুলি জেনে নেয়া যাক!"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="পবিত্র কুরআন শেখার কিছু সহজ পদ্ধতি"
+               android:gravity="center"
+               android:textColor="@color/black"
+               android:textStyle="bold"
+               android:layout_marginBottom="5dp"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="1) বর্তমান সময়ে সকলের কাছেই স্মার্টফোন রয়েছে একই সাথে ইন্টারনেট সংযোগ ও প্রায় সকলের রয়েছে। সুতরাং আপনি চাইলে ঘরে বসে ইউটিউব থেকে বিভিন্ন কুরআন শিক্ষা লেসন দেখার মাধ্যমেও কোরআন শিক্ষা সহজে অর্জন করতে পারেন। ইউটিউবে অসংখ্য প্লে-লিস্ট এবং ভিডিও রয়েছে কুরআন শেখার বিষয়ে। সুতরাং আপনি চাইলে এই লেসন গুলোর ও সঠিক ব্যবহার করতে পারেন। তবে এ ক্ষেত্রে বিশেষভাবে সতর্ক থাকতে হবে যাতে আপনি সহিহ শুদ্ধ কুরআন শেখার নিয়ম গুলি দেখছেন। ইউটিউব এর মাধ্যমে কুরআন শিক্ষা বর্তমান সময়ের জন্য একটি অত্যন্ত সহজ পদ্ধতি।
+"
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="2)দ্বিতীয়তঃ যদি আপনার হাতে পর্যাপ্ত সময় থেকে থাকে তাহলে আপনি চাইলে সরাসরি কোনো অভিজ্ঞ হুজুরের কাছ থেকে কুরআন শেখার তালিম নিতে পারেন। এর মাধ্যমে আপনি সবচেয়ে দুর্দান্তভাবে কুরআন শিখতে পারবেন এবং অল্প সময় আয়ত্ত করতে পারবেন।  "
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="3) তৃতীয়তঃ আপনি যদি মনে করেন যে আপনি বিভিন্ন ধরনের কুরআন শিক্ষা বই এর মাধ্যমে কুরআন শিখতে চান তাহলে আপনি সেটি করতে পারবেন তবে এক্ষেত্রে একটি ছোট সমস্যা হবে সেটি হচ্ছে আপনার উচ্চারণ সহি শুদ্ধ হচ্ছে কিনা সেটি আপনি সহজে বুঝতে পারবেন না। তাই আপনি যদি এভাবে কুরআন শিখতে চান তাহলে চেষ্টা করবেন যে ব্যক্তি সহি শুদ্ধভাবে কুরআন তিলাওয়াত করতে পারে তার কাছে মাঝে মাঝে গিয়ে আপনার কুরআন পাঠ শোনান যাতে আপনি আপনার ভুল ত্রুটিগুলো বুঝতে পারেন এবং শুধরে নিতে পারেন।"
+
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="4) চতুর্থ একটি সহজ উপায় হচ্ছে আপনি আপনার তেলাওয়াত সহি শুদ্ধ করতে প্রতিনিয়ত হাফেজ এবং ক্বারীদের কুরআন তিলাওয়াত শুনতে পারেন। আপনি যখন প্রতিনিয়ত তাদের তেলওয়াত শুনতে থাকবেন তখন আপনার মাঝে থাকা জড়তা কেটে যাবে এবং আপনি যদি অনেক পূর্বে কুরআন মাজীদ তেলাওয়াত শিখে থাকেন এবং সেটাতে যদি ভুল ত্রুটি থেকে থাকে তাহলে আশা করা যায় প্রতিনিয়ত সহি শুদ্ধ কুরআন তেলাওয়াত শোনার দ্বারা আপনার ভুল ত্রুটি গুলি ধীরে ধীরে কেটে যাবে। এছাড়াও বিভিন্ন ধরনের অ্যাপস ইন্সটল করে ও আপনি কুরআন শেখার পথযাত্রা সহজ করতে পারেন।
+"
+               android:textColor="@color/black"
+
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="5) কুরআন শেখার সহজ উপায় গুলির মাঝে একটি অত্যন্ত সহজ উপায় রয়েছে! বর্তমান সময়ে পবিত্র কুরআন শেখার প্রেক্ষাপটে সর্বশেষ এবং সবচেয়ে সহজ উপায় হল অনলাইন কোর্স করা। আপনি যদি স্বল্প সময়ে দৃঢ়তার সহিত ঘরে বসেই কুরআন মাজীদ তেলাওয়াত শিখতে চান তাহলে আপনার জন্য সবচেয়ে সেরা হবে অনলাইন কোর্স করা। অনলাইন করছে আপনি উপযুক্ত মেন্টরের গাইডলাইন পাবেন একই সাথে নিজেকে যাচাই-বাছাই করার জন্য বিভিন্ন ধরনের কুইজে অংশ নিতে পারবেন সব মিলিয়ে আপনি খুব সহজে কুরআন মাজীদ শিখতে পারবেন। "
+
+
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="শেষ কিছু কথা"
+               android:gravity="center"
+               android:textColor="@color/black"
+               android:textStyle="bold"
+               android:layout_marginBottom="5dp"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="কুরআন মাজীদ শেখা সত্যিই সবচেয়ে সহজ এবং সাবলীল একটি বিষয় যদি আপনি মন থেকে সেটি শিখতে এবং ধারণ করতে চান। আপনারা যারা কুরআন শিক্ষার বিষয়ে আগ্রহ প্রকাশ করছেন কিংবা ভাবছেন এখন কুরআন শেখা জরুরী তারা আজ থেকেই কুরআন শেখার বিষয় গুরুত্ব আরোপ করুন। অযথা সময় নষ্ট করবেন না পছন্দমত যে কোন একটি সহজ উপায় বেছে নিন কুরআন শেখার জন্য এবং উপভোগ্য ভাবে কুরআন শেখার পথযাত্রা আজ এই মুহূর্ত থেকে শুরু করে দিন ইনশা আল্লাহ মহান রাব্বুল আলামিন আমাদের সকলের সদিচ্ছা কবুল করবেন!"
+               android:textColor="@color/black"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text=""
+               />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       </LinearLayout>
+
+
+
+   </ScrollView>
+
+</LinearLayout>

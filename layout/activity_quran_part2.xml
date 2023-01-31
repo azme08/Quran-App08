@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Quran_Part2"
+    android:background="#29BCA5"
+    android:orientation="vertical"
+    >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:padding="5dp"
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="2dp"
+                android:text="পবিত্র কোরআন শরীফে মোট সূরার সংখ্যাঃ ১১৪টি
+"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:text="আয়াত সংখ্যাঃ ৬৬৬৬ (ভিন্ন মত অনুযায়ী ৬২৩৬টি)
+প্রতিটি আয়াত এক একটি উক্তি। প্রতিটি আয়াতের মর্মার্থ অনেক গভীর। "
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="পবিত্র কোরআন শরীফের উল্লেখযোগ্য কিছু আয়াত দেয়া হলঃ "
+                android:textStyle="bold"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="1) যে আল্লাহর প্রতি ঈমান আনে, আল্লাহ তার অন্তরকে সৎপথে পরিচালিত করেন।
+
+Source:সূরা আত-তাগাবুন ৬৪:১১"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="2)যারা ঈমান এনেছে এবং নেক কাজ করেছে তুমি তাদেরকে সুসংবাদ দাও যে, তাদের জন্য রয়েছে জান্নাতসমূহ।
+
+Source:সূরা আল-বাকারাহ ২:২৫"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="3)উপদেশ দিতে থাক, কারণ উপদেশ মুমিনদের উপকারে আসে।
+
+Source:সূরা আয-যারিয়াত ৫১:৫৫"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="4) মহান আল্লাহ্‌ তায়ালা বলেন,
+
+“বলুন: আমি কি আপনাকে তাদের চেয়ে অনেক ভালো জিনিসের সুসংবাদ দেব? কারণ ধার্মিকদের থাকবে তাদের পালনকর্তার নিকটবর্তী বাগান এবং তাঁরা পাবে আল্লাহর সন্তুষ্টি। কারণ আল্লাহর দৃষ্টিতে (সব) তাঁর বান্দা” (3: 15)।"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="5)আল্লাহ বলবেন, “এটি এমন একটি দিন যেখানে সত্যবাদীরা তাদের সত্য থেকে উপকৃত হবে। তাদের থাকবে বাগান, নিচে প্রবাহিত হবে নদী – সেখানেই হবে তাদের চিরস্থায়ী ঘর। “(5: 119)।"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="6)“চির সুখের বাগানে(জান্নাতের বাগান) তারা(জান্নাতিরা) সেখানে প্রবেশ করবে, সেইসাথে তাদের পিতৃপুরুষ, তাদের পত্নী এবং তাদের বংশধরদের মধ্যে যারা  ধার্মিক ছিল। প্রতিটি দরজা থেকে ফেরেশতারা প্রবেশ করবে (সালাম দিয়ে) এবং বলবেন এখন দেখো তোমাদের (জান্নাতিদের) চূড়ান্ত বাড়ি কত চমৎকার! ” (কুরআন ১:: ২–-২))।"
+                android:textSize="15dp"
+                />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:text="7)“তারা তাতে খারাপ বক্তব্য বা পাপের অভিযোগ শুনবে না। শুধু শুনবে এই উক্তি: ‘শান্তি! শান্তি! ” (কুরআন ৫:: ২৫-২)"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="8)“কিন্তু যারা বিশ্বাসী এবং সৎকর্ম করে তাদের সুসংবাদ দাও, তাদের অংশ হল বাগান, যার নিচে নদী প্রবাহিত হয়” (2:25)।"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="9)“তোমার প্রভুর কাছ থেকে ক্ষমা পাওয়ার দৌড়ে দ্রুত হও, এবং এমন একটি বাগানের জন্য, যার প্রস্থ আকাশমণ্ডল ও পৃথিবীর সমগ্র (ধার্মিকদের জন্য প্রস্তুত)” (3: 133)"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="10)যে অভাবী মানুষের কাছে হাত পাতে না এবং যে অভাবী চেয়ে বেড়ায়, তাদেরকে খেতে দাও।
+
+Source:সূরা আল-হাজ্জ ২২:৩৬"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="11) আল্লাহকে মজবুতভাবে ধর, তিনিই তোমাদের অভিভাবক। তিনি কতই না উত্তম অভিভাবক এবং কতই না উত্তম সাহায্যকারী।
+
+Source:সূরা আল-হাজ্জ ২২:৭৮"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="2dp"
+                android:text=""
+                />
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".New_Part3"
+    android:orientation="vertical"
+    android:background="#29BCA5"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="vertical"
+            android:background="@color/white"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="জান্নাত সম্পর্কে রাসূল (সাঃ) "
+                android:textSize="17dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="জান্নাত সম্পর্কিত হাদিসে, আয়িশা রাদ্বিয়াল্লাহু বলেছেন,
+
+রাসুল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ
+
+“ছয়টি অভ্যাস এমন রয়েছে, যার কোন একটি অভ্যাসের উপর কোন মুসলমান মারা গেলে তাকে জান্নাতে প্রবেশ করানোর ব্যাপারে আল্লাহ নিজেই জিম্মাদার।” "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="1) কোন লোক জিহাদে বের হয়ে মারা গেলে, আল্লাহ তাকে জান্নাতে প্রবেশ করানোর ব্যাপারে জিম্মাদার। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="2) কোন ব্যক্তি কারো জানাজায় অংশগ্রহণ করে মারা গেলে, আল্লাহ তাকে জান্নাতে প্রবেশ করানোর ব্যাপারে জিম্মাদার।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="3) অসুস্থ লোক দেখতে গিয়ে কেউ মারা গেলে, তাকে জান্নাতে প্রবেশ করানোর ব্যাপারে জিম্মাদার। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="4) কোন ব্যক্তি উত্তমরূপে অজু করে সালাত আদায়ের জন্য মসজিদে গিয়ে মারা গেলে, আল্লাহ তাকে জান্নাতে প্রবেশ করানোর ব্যাপারে জিম্মাদার। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="5) কোন লোক একমাত্র শ্রদ্ধা করার উদ্দেশ্যে কোন নেতার (নেতা যদি মুসলিমদের নেতা হয় ও মুসলিমদের কল্যাণকামী হয়) নিকট গেলো এবং সেখানে সে মারা গেলো, আল্লাহ তাকে জান্নাত দেয়ার ব্যাপারে জিম্মাদার। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="6) কোন লোক বাড়িতে থাকে, কারো গিবত করে না এবং তার নিকট কোন শাস্তি বা সন্তুষ্টির অভিযোগ করা হয় না এমন লোক মারা গেলে, তাকে জান্নাতে প্রবেশ করানোর ব্যাপারে আল্লাহ জিম্মাদার। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="যে কোন দিনে চারটি আমল করতে পারলে জান্নাতঃ "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আবূ হুরাইরাহ্ রাদ্বিয়াল্লাহু আনহু হতে প্রাপ্ত,
+
+❝ মহানবী হযরত মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ
+
+আজ তোমাদের মাঝে কে (সিয়াম বা রোজা পালনকারী)? "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আবূ বকর (রাযিঃ) বললেন, আমি।
+
+❝ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ
+
+ আজ তোমাদের মাঝে কে একটা (জানাযাকে অনুকরণ করেছো)?
+
+ আবূ বাকর (রাযিঃ) বললেন, আমি। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="❝ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ
+
+ তোমাদের মাঝে কে একজন (মিসকীনকে আজ খাবার দিয়েছো)?
+
+ আবূ বাকর বললেন, আমি। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="❝ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবার বললেনঃ
+
+ তোমাদের মাঝে কে আজ একজন (অসুস্থকে দেখতে গিয়েছো)?
+
+ আবূ বাকর (রাযিঃ) বললেন, আমি। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="❝ তারপর রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ
+
+ যার মধ্যে এ কাজগুলোর সংমিশ্রণ ঘটেছে সে জান্নাতে প্রবেশ করবে। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="পৃথিবীতে জান্নাতী লোকের পরিচয়: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, “তিন শ্রেণীর মানুষ জান্নাতী হবে।” "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="1) প্রথমত তারা, যারা রাষ্ট্রীয় কর্ণধার, ন্যায়পরায়ণ, সত্যবাদী এবং নেক কাজের তাওফীক লাভে ধন্য লোক। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="2) দ্বিতীয়, ঐ সকল মানুষ, যারা দয়ালু এবং আত্মীয়-স্বজন ও মুসলিম সম্প্রদায়ের প্রতি কোমলচিত্ত। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="3) তৃতীয়, ঐ শ্রেণীর মানুষ, যারা পূত-পবিত্র চরিত্রের অধিকারী, যাঞ্চাকারী নয় এবং সন্তানাদি সম্পন্ন লোক। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="রাসূল (সাঃ) বলেছেন, যার সর্বশেষ বাক্য হবে “লা ইলাহা ইল্লাল্লাহ”, সে জান্নাতে প্রবেশ করবে। "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

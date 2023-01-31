@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Quran_Part3"
+    android:background="#29BCA5"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:padding="5dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="ঈমান ভঙ্গের কারণসমূহ নিয়ে ইসলামিক উক্তি"
+                android:textSize="17dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:text="1)আল্লাহ্’র অস্তিত্ব অস্বীকার করা বা আল্লাহ ব্যতীত কাউকে স্রষ্টা বা প্রতিপালক মনে করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="2)আল্লাহর সঙ্গে শিরক করা, তিনি ব্যতীত অন্য কারো ইবাদাত করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="3)সুস্পষ্ট মশুরিক-কাফিরদেরকে কাফির মনে না করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="4)ধর্মীয় বিষয়ে মসুলিমদের বিরুদ্ধে অমসুলিম কিংবা ত্বাগুতকে সহযোগিতা করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="5)সুনিশ্চিত হারামকে হালাল অথবা সুনিশ্চিত হালালকে হারাম মনে করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="6)দ্বীনের অকাট্য কোনো বিধানকে অস্বীকার, অপছন্দ বা মিথ্যারোপ করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="7)আল্লাহ, রাসূল, দ্বীন ও দ্বীনের কোনো বিধান নিয়ে ঠাট্টা বিদ্রুপ করা বা গালি দেয়া।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="8)আল্লাহর আইনের বিপরীতে আইন প্রণয়ন করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="9) রাসূলের (স) ফয়সালার তুলনায় অন্য কারো ফয়সালাকে উত্তম মনে করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="10)জাদুকরা, বান মারা, কুফরি কালাম করা।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="11)জ্যোতিষী বা গণকের ভবিষ্যৎবাণী বিশ্বাস করা। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="12)জাগতিক ও বৈজ্ঞানিক কার্যকারণের অন্তর্ভূক্ত নয় এমন কোনো বিষয়কে কারণ হিসেবে উল্লেখ
+করা। যেমন, ভাগ্য রাশি। অনরূু পভাবে অশুভ, অযাত্রা বা অমঙ্গলে বিশ্বাস করা। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="13)কাউকে দ্বীন শরীয়তের ঊর্ধ্বে মনে করা। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="14) যে পরম করুণাময়ের যিকির থেকে বিমুখ থাকে, আমি তার জন্য এক শয়তানকে নিয়োজিত করি, ফলে সে হয়ে যায় তার সঙ্গী। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

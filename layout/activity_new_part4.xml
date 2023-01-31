@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".New_Part4"
+    android:orientation="vertical"
+    android:background="#29BCA5"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="vertical"
+            android:background="@color/white"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="কিয়ামত সম্পর্কে রাসূল (সাঃ) "
+                android:textSize="17dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="মহানবী (সাঃ) বলেন, “সাত ব্যক্তিকে আল্লাহ তাঁর ছায়াতলে আশ্রয় দেবেন, যেদিন(কেয়ামতের দিন) তাঁর ছায়া ছাড়া আর কোন ছায়াই অবশিষ্ট থাকবে না। তারা হলো, "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (১) ন্যায়পরায়ন শাসক। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (২) যে যুবক আল্লাহর ইবাদাতের মধ্যে বড় হয়েছে।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (৩) যে ব্যক্তি মসজিদ থেকে বেরিয়ে গেলেও তার অন্তর এর সাথে সম্পৃক্ত থাকে।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (৪) এমন দু’জন লোক যারা আল্লাহর জন্য পরস্পর ভালবাসা স্থাপন করেছে। এই সম্পর্কেই একত্র থাকে এবং বিচ্ছিন্ন হয়।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (৫) এমন ব্যক্তি যাকে কোন অভিজাত পরিবারের সুন্দরী রূপসী নারী (খারাপ কাজে) আহ্বান করেছে কিন্তু সে তাকে এই বলে প্রত্যাখ্যান করেছে, “আমি আল্লাহকে ভয় করি”।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (৬) এমন ব্যক্তি যে এত গোপনে দান-সদকা করেছে যে, তার ডান হাত যা দান করেছে তার বাম হাতও তা জানতে পারেনি যে, ডান হাত কি দান করেছে।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" (৭) যে ব্যক্তি নির্জনে আল্লাহকে স্মরণ করেছে এবং তার দু’চোখ বয়ে পানি পড়েছে।”"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="মহানবী হযরত মুহাম্মদ (সাঃ) বলেন,
+
+আমার উম্মতের(অনুসারীদের)  মাঝে আইয়্যামে জাহিলী যুগের চারটি কু-প্রথা(খারাপ প্রথা) রয়ে গেছে যা লোকেরা পরিত্যাগ করতে চাইবে না। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" ১) বংশের গৌরব করা। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" ২) অন্যকে বংশের খোঁটা দেয়া, "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" ৩) নক্ষত্রের মাধ্যমে বৃষ্টির জন্য প্রার্থণা করা, "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" ৪) মৃতের জন্য বিলাপ করে কান্নাকাটি করা। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="কিয়ামতের দিন কাদের সাথে আল্লাহ্‌ তায়ালা কথা বলবেন না? "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="মহানবী (সাঃ) বলেন,
+
+“এমন তিন প্রকার লোক রয়েছে, যাদের সাথে কিয়ামতের দিন আল্লাহ তা’আলা কথা বলবেন না, তাদের দিকে তাকাবেন না এবং তাদেরকে পবিত্রও করবেন না। আর তাদের জন্য রয়েছে মর্মন্তুদ শাস্তি।”  "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" 1)যে পরিধেয় বস্ত্র টাখনুর নিচে ঝুলিয়ে রাখে।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" 2)যে মিথ্যা কসম করে মাল চালায়।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" 3)আর যে কিছু দান করে তার খোঁটা দেয়।"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</LinearLayout>

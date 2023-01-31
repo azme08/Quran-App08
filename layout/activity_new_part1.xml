@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".New_Part1"
+    android:orientation="vertical"
+    android:background="#29BCA5"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:padding="5dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="মহানবী সাঃ এর মূল্যবান বাণী "
+                android:textSize="17dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="(১) আল্লাহর সাথে কাউকে শরীক করবে না, যদি তোমাকে হত্যা করা হয় অথবা আগুনে জ্বালিয়ে দেয়া হয় তাও না।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(২) পিতা-মাতার অবাধ্য হবে না। যদি মাতা-পিতা তোমাকে তোমার পরিবার-পরিজন বা ধন সম্পদ ছেড়ে দেয়ার হুকুমও দেয়।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৩) ইচ্ছাকৃতভাবে কখনও কোন ফরয সালাত (নামাজ) ছেড়ে দিও না। কারণ যে ব্যক্তি ইচ্ছাকৃতভাবে ফরয সালাত (নামাজ) পরিত্যাগ করে, আল্লাহ তা‘আলা তার থেকে দায়িত্ব উঠিয়ে নেন।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৪) মদ পান হতে বিরত থাকবে। কেননা তা সকল অশ্লীলতার মূল।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৫) সাবধান, আল্লাহর নাফরমানী ও গুনাহ থেকে বেঁচে থাক। কেননা, নাফরমানী দ্বারা আল্লাহর ক্রোধ অবধারিত হয়ে যায়।
+
+Source: Al hadith (আল হাদিস)"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৬) জিহাদ হতে কখনো পালিয়ে যাবে না, যদিও সকল লোক মারা যায়।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৭) যখন মানুষের মধ্যে মহামারী ছড়িয়ে পড়ে, আর তুমি সেখানেই রয়েছ, তখন সেখানে তুমি অবস্থান করবে (পলায়নপর হবে না)।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৮) শক্তি-সামর্থ্য অনুযায়ী নিজের পরিবার-পরিজনের জন্য খরচ করবে (কার্পণ্য করে তাদের কষ্ট দিবে না)।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(৯) পরিবারের লোকেদেরকে আদাব-কায়দা শিক্ষার জন্য কক্ষনও শাসন হতে বিরত থাকবে না।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="(১০) আল্লাহ তা‘আলা সম্পর্কে তাদেরকে ভয় প্রদর্শন করতে থাকবে।
+
+Source: Al hadith (আল হাদিস) "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="১১। কুরবানি সম্পর্কে মহানবীর বাণী
+রাসূল (সা:) বললেন, “তোমরা নিজেরা খাও, অন্যকে খাওয়াও এবং সঞ্চয় করে রাখ (কুরবানীর গোশ্ত সম্পর্কে)।” সহীহ বুখারী-৫৫৬৯
+
+“রাসূল (সা:) আদেশ করলেন, কুরবানী হতে পারিশ্রমিক হিসেবে কসাইকে কিছু না দিতে।”
+
+Source:সহীহ বুখারী-১৭১৬ "
+                android:textSize="16dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

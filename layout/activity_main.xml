@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.azme.quransharif.MainActivity"
+    android:orientation="vertical"
+    android:background="@color/white"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সহীহ্ কুরআন ও নামাজ শিক্ষা"
+        android:textSize="27dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#151515"
+        android:textStyle="bold"
+        />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/quranfrontpage"
+
+
+
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Covered by Abdullah Al Azme "
+        android:textSize="15dp"
+        android:gravity="right"
+        android:textColor="#151515"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="20th Batch,Department of CSE  "
+        android:textSize="13dp"
+        android:gravity="right"
+        android:textColor="#151515"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="European University Of Bangladesh  "
+        android:textSize="12dp"
+        android:gravity="right"
+        android:textColor="#151515"
+        android:textStyle="bold"
+        />
+    <ImageView
+        android:id="@+id/imgnex"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/next_button"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="right"
+
+
+        />
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        android:layout_marginTop="40dp"
+        ads:adUnitId="@string/admob_BANNER_UNIT_ID">
+    </com.google.android.gms.ads.AdView>
+
+
+
+
+
+
+</LinearLayout>

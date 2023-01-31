@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".New_part2"
+    android:orientation="vertical"
+    android:background="#29BCA5"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:background="@color/white">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="শ্রেষ্ঠ দোয়া সম্পর্কে রাসূল (সাঃ) "
+                android:textSize="17dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="শ্রেষ্ঠ দোয়া সম্পর্কে রাসূল (সাঃ) বলেন, শ্রেষ্ঠ দো‘আ হচ্ছে আরাফাত দিবসের দো‘আ।  "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আর আমি এবং আমার পূর্ববর্তী নবীগণ যা বলেছি, তার মধ্যে শ্রেষ্ঠ হচ্ছে: "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" “لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" عَلَى كُلِّ شَيْءٍ قَدِيرٌ"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="বাংলা অর্থঃ একমাত্র আল্লাহ ছাড়া কোনো হক্ব ইলাহ নেই, তাঁর কোনো শরীক নেই; রাজত্ব তাঁরই, সমস্ত প্রশংসাও তাঁর; আর তিনি সকল কিছুর উপর ক্ষমতাবান।” "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="বাংলা উচ্চারণঃ লা ইলা-হা ইল্লাল্লা-হু ওয়াহদাহু লা শারীকা লাহু, লাহুল মূলকু ওয়া লাহুল হামদু, ওয়া হুয়া ‘আলা কুল্লি শাই’ইন ক্বাদীর।
+
+Source:[তিরমিযী-৩৫৮৫, শাইখুল আলবানী সহীহুত তিরমিযীতে হাদীসটিকে হাসান বলেছেন, ৩/১৮৪; সিলসিলা সহীহা-৪/৬। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="আরাফাহ দিবস সম্পর্কিত মহানবীর বাণী "
+                android:textSize="17dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আরাফাহ দিবসের তুলনায় এমন কোন দিন নেই, যেদিন আল্লাহ তা’আলা সর্বাধিক লোককে দোযখের আগুন থেকে মুক্তি দান করেন।
+
+Source:সহিহ মুসলিম-৩১৭৯ "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="আরাফাতের দিনের দু’আই উত্তম দু’আ। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="ইসলামিক ৫টি ছোট ছোট কার্যকারী দোয়া "
+                android:textSize="17dp"
+                android:gravity="center"
+                android:textStyle="bold"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="1) ব্যথার দোয়া: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" শরীরের যে স্থানে ব্যথা অনুভব হয় সেখানে হাত রেখে প্রথমে তিনবার বিসমিল্লাহ পড়তে হবে। পরে ৭ বার পড়তে হবে,  "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="এর উচ্চারণ হলো – ”আ‘ঊযু বিল্লা-হি ওয়া ক্বুদরাতিহী মিন শাররি মা আজিদু ওয়া উহা-যিরু”,যার অর্থ হলো – ”এই যে ব্যথা আমি অনুভব করছি এবং যার আমি আশঙ্কা করছি, তা থেকে আমি আল্লাহ্‌র এবং তাঁর কুদরতের আশ্রয় প্রার্থনা করছি।” "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="2) খারাপ ব্যধি থেকে আশ্রয়ের দোয়া: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="যেকোনো মানব ইমানের সহিত যে কোনো ব্যধিতে আশ্রয় চেয়ে উক্ত দোয়া পড়তে পারে। খারাপ ব্যধি থেকে আশ্রয়ের দোয়া হলো- "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" اَللَّهُمَّ اِنِّىْ اَعُوْذُ بِكَ مِنَ الْبَرَصِ وَ الْجُنُوْنِ وَ الْجُذَامِ وَمِنْ سَىِّءِ الْاَسْقَامِ"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ : ”আল্লাহুম্মা ইন্নি আউজুবিকা মিনাল বারাসি ওয়াল জুনুন ওয়াল ঝুজাম ওয়া মিন সায়্যিল আসক্বাম।” -সূনানে আবু দাউদ, সূনানে তিরমিজি
+
+অর্থ : ”হে আল্লাহ! আপনার কাছে আমি শ্বেত রোগ থেকে আশ্রয় চাই। মাতাল হয়ে যাওয়া থেকে আশ্রয় চাই। কুষ্ঠু রোগে আক্রান্ত হওয়া থেকে আশ্রয় চাই। আর দূরারোগ্য ব্যাধি (যেগুলোর নাম জানিনা) থেকে আপনার আশ্রয় চাই।” "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="3) আয়াতুল কুরসি: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="যদি কোনো নবীর উম্মত ও আল্লাহ তা’আলার বান্দা ফরজ সালাতে পর একবার আয়াতুল কুরসি পড়ে এবং সেই সালাতের পর সে মারা যায়, তাহলে সে জান্নাতি। সে জান্নাতে যাচ্ছে না কারণ সে এখনো জীবিত। যদি সেই ফরজ সালাতের পর সে ইমানী ব্যক্তি মারা যেত, তাহলে সে সরাসরি জান্নাতী হতো। তাহলে বুঝাই যাচ্ছে যে, আয়াতুল কুরসি কতটা ফজিলত সম্পূর্ণ সূরা। তাহলে চলুন আয়াতুল কুরসি দোয়া সম্পর্কে জানা জাক। আয়াতুল কুরসি হলো- "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="  ﻣَﺎ ﻓِﻲ ﺍﻟﺴَّﻤَﺎﻭَﺍﺕِ ﻭَﻣَﺎ ﻓِﻲ ﺍﻷَﺭْﺽِ ﻣَﻦ ﺫَﺍ ﺍﻟَّﺬِﻱ ﻳَﺸْﻔَﻊُ ﻋِﻨْﺪَﻩُ ﺇِﻻَّ ﺑِﺈِﺫْﻧِﻪِ ﻳَﻌْﻠَﻢُ ﻣَﺎ ﺑَﻴْﻦَ ﺃَﻳْﺪِﻳﻬِﻢْ ﻭَﻣَﺎ ﺧَﻠْﻔَﻬُﻢْ ﻭَﻻَ ﻳُﺤِﻴﻄُﻮﻥَ ﺑِﺸَﻲْﺀٍﻣِّﻦْ ﻋِﻠْﻤِﻪِ ﺇِﻻَّ ﺑِﻤَﺎ ﺷَﺎﺀ ﻭَﺳِﻊَ ﻛُﺮْﺳِﻴُّﻪُ ﺍﻟﺴَّﻤَﺎﻭَﺍﺕِ ﻭَﺍﻷَﺭْﺽَ ﻭَﻻَ ﻳَﺆُﻭﺩُﻩُ ﺣِﻔْﻈُﻬُﻤَﺎ ﻭَﻫُﻮَ ﺍﻟْﻌَﻠِﻲُّ ﺍﻟْﻌَﻈِﻴﻢ“
+
+"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণঃ ” আল্লাহু লা ইলাহা ইল্লা হুয়াল হাইয়্যুল ক্বিয়্যুম লা তা’খুজুহু সিনাত্যু ওয়ালা নাউম। লাহু মা ফিছছামা ওয়াতি ওয়ামা ফিল আরদ্। মান যাল্লাযী ইয়াস ফায়ু ইন দাহু ইল্লা বি ইজনিহি ইয়া লামু মা বাইনা আইদিহিম ওয়ামা খল ফাহুম ওয়ালা ইউ হিতুনা বিশাই ইম্ মিন ইল্ মিহি ইল্লা বিমা সাআ ওয়াসিয়া কুরসিইউ হুস ছামা ওয়াতি ওয়াল আরদ্ ওয়ালা ইয়া উদুহু হিফজুহুমা ওয়াহুয়াল আলিয়্যূল আজীম “
+
+বাংলা অনুবাদঃ ” আল্লাহ ছাড়া অন্য কোনো উপাস্য নেই, তিনি জীবিত, সবকিছুর ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না এবং নিদ্রাও নয়। আসমান ও যমীনে যা কিছু রয়েছে, সবই তাঁর। কে আছ এমন, যে সুপারিশ করবে তাঁর কাছে তাঁর অনুমতি ছাড়া? দৃষ্টির সামনে কিংবা পিছনে যা কিছু রয়েছে সে সবই তিনি জানেন। তাঁর জ্ঞানসীমা থেকে তারা কোনো কিছুকেই পরিবেষ্টিত করতে পারে না, কিন্তু যতটুকু তিনি ইচ্ছা করেন। তাঁর সিংহাসন সমস্ত আসমান ও যমীনকে পরিবেষ্টিত করে আছে। আর সেগুলোকে ধারণ করা তাঁর পক্ষে কঠিন নয়। তিনিই সর্বোচ্চ এবং সর্বাপেক্ষা মহান “ [আল কুরআন: সূরা বাকারাহ্, আয়াত ২৫৫] "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="4) জাহান্নামের আগুন থেকে রক্ষা পাওয়া দোয়া: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="জাহান্নামের আগুন থেকে রক্ষা বা মক্তি পাওয়ার দোয়া হলো- "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="  اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ হলো: আল্লাহুম্মা আঝিরনি মিনান নার। “
+
+অর্থ হলো: ” হে আল্লাহ! আমাকে জাহান্নামের আগুন থেকে রক্ষা করো। "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="5) চিন্তা দূর করার দোয়া: "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="দুশ্চিন্তামুক্ত থাকার দোয়া- "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَ أَعُوذُ بِكَ مِنَ الْبُخْلِ وَالْجُبْنِ، وَ أَعُوذُ بِكَ مِنَ ضَلَعِ الدَّيْنِ، وَغَلَبَةِ الرِّجَالِ
+
+"
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="উচ্চারণ : ” আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল হাম্মি ওয়াল হাযানি, ওয়া আউযু বিকা মিনাল বুখলি ওয়াল জুবনি, ওয়া আউযু বিকা মিন দ্বালা’য়িদ্দাইনি ওয়া গালাবাতির রিজাল। “ (বুখারি, মুসলিম, মিশকাত).অর্থ : “ হে আল্লাহ! নিশ্চয়ই আমি দুশ্চিন্তা ও দুঃখ থেকে আপনার আশ্রয় চাই, অপারগতা ও অলসতা থেকে আপনার আশ্রয় চাই, কৃপণতা ও ভীরুতা থেকে আপনার আশ্রয় চাই আর ঋণের ভার ও মানুষদের দমন-পীড়ন থেকেও আপনার আশ্রয় চাই। “ "
+                android:textSize="16dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="বিপদের মোকাবিলা করতে কোন সূরা পড়তে হবে? "
+                android:textSize="16dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text="রাসূল (সাঃ) বললেন,
+
+“সকালে ও সন্ধ্যায় তিনবার করে কুল হুওয়াল্লাহু আহাদ, ক্বুল আ‘ঊযু বিরাব্বিল ফালাক ও ক্বুল আ‘ঊযু বিরাব্বিন্‌নাস পড়বে।এই সূরা গুলোর সকল বিপদ-আপদের মুকাবিলায় তোমার জন্য যথেষ্ট হবে।”  "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:text=" "
+                android:textSize="16dp"
+                />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
